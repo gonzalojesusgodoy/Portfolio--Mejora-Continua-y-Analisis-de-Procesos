@@ -17,8 +17,6 @@ Estoy abierto a distintas oportunidades dentro del área de tecnología, especia
 ### 📚 ¿Qué estoy aprendiendo?
 
 - **Programación**
-- **Python**
-- **HTML**
 - **Metodologías Ágiles**
 - **Scrum**
 - **Jira**
