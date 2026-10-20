@@ -29,10 +29,7 @@ Se evaluarán principalmente:
 
 ## 👥 Equipo
 
-**Tester Junior**
-
-🌎 Argentina  
-💻 Modalidad remota
+ El equipo de prueba estará compuesto por un **Tester Junior**. Este mismo estará prestando servicio desde Argentina y de forma remota.
 
 ---
 
