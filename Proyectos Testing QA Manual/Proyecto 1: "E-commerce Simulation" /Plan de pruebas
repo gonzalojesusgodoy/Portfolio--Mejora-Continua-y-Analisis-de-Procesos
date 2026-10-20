@@ -1,1 +1,22 @@
+- ***Plan de pruebas***
+  - **Objetivo de las pruebas:** Evaluar la funcionalidad del “Proceso y gestión de compra de un producto”, esto para verificar y validar que el producto satisfaga las necesidades del cliente y de los usuarios. También buscó reducir la probabilidad que aparezcan defectos en la etapa de desarrollo.
+  - **Alcance:** Se busca asegurar la calidad de un proyecto en desarrollo, enfocado en la implementación de funcionalidades específicas que necesitan ser validadas y verificadas para garantizar su correcto funcionamiento y cumplimiento de requisitos. Las pruebas estarán centradas en evaluar los aspectos funcionales, de usabilidad y rendimiento del sistema.
+  - **Equipo:** El equipo de prueba estará compuesto por un tester junior. Este mismo estará prestando servicio desde Argentina y de forma remota.
+  - **Estrategia:** El encargado de hacer las pruebas de testing realizará pruebas funcionales y no funcionales de forma manual. Dentro de las pruebas no funcionales se ejecutarán pruebas de rendimiento, usabilidad y performance. También haremos pruebas exploratorias en el sign-up.
+  - **Criterios:** El criterio de funcionalidad es fundamental para garantizar que el sistema cumpla con los requisitos y funcione como se espera. Los criterios no funcionales son esenciales para evaluar aspectos como la usabilidad, el rendimiento, la seguridad y otros atributos que influyen en la experiencia del usuario y la eficiencia del sistema. Estas pruebas se enfocan en verificar la capacidad del sistema para manejar cargas específicas sin degradación significativa del rendimiento, asegurando su accesibilidad para usuarios con diversas capacidades, y evaluando la seguridad para proteger la integridad de los datos y la privacidad de los usuarios. Además, se considera la estabilidad del sistema bajo condiciones extremas y su habilidad para recuperarse rápidamente de fallos, asegurando una experiencia de usuario segura y eficiente.
+  - **Ambiente:** El ambiente será Notebook HP - Windows 10, a la vez probaremos utilizando el navegador web Google Chrome.
+  - **Entregables:** Plan de prueba, informe del estado, reporte de defectos y de mejoras.
+  - **Gestión de incidente:** Durante la ejecución de las pruebas, cualquier desviación del comportamiento esperado del sistema se considera un incidente. Cada incidente identificado se documentará, esta documentación incluirá una descripción clara del problema, los pasos para reproducirlo, el entorno de prueba en el que ocurrió, la severidad del incidente y cualquier evidencia relevante, como capturas de pantalla o logs del sistema. La prioridad se determinará en función de la severidad y el impacto del incidente en el sistema, considerando factores como la criticidad de la funcionalidad afectada.
+  - **Riesgo:**
 
+| Riesgo | Probabilidad | Impacto | Mitigación | Contingencia |
+|---|---|---|---|---|
+| Falta de tiempo para cumplir con las pruebas | Media | Alto | Priorizar los casos de prueba basados en riesgos y la criticidad de las funcionalidades. | Horas extras |
+| Impacto en la Moral del Equipo | Baja | Medio | Fomentar un ambiente de apoyo y colaboración | Celebrar pequeños logros y ofrecer apoyo continuo. |
+
+  - **Tareas:**
+  - [ ] Armado de casos de pruebas
+  - [ ] Ejecución de pruebas funcionales
+  - [ ] Ejecución de pruebas NO funcionales
+  - [ ] Reporte de defectos
+  - [ ] Armado de reporte de mejoras
