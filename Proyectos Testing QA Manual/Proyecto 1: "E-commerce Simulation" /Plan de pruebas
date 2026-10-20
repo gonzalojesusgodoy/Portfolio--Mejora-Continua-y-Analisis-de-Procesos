@@ -1,91 +1,140 @@
 # 🧪 Plan de Pruebas
+### Proceso y gestión de compra de un producto
 
-## 🎯 Objetivo de las pruebas
+> Plan de pruebas orientado a verificar y validar el correcto funcionamiento del proceso de compra, considerando aspectos funcionales, de usabilidad y rendimiento.
 
-Evaluar la funcionalidad del **“Proceso y gestión de compra de un producto”**, con el objetivo de verificar y validar que el producto satisfaga las necesidades del cliente y de los usuarios.
+---
 
-También se busca reducir la probabilidad de que aparezcan defectos en la etapa de desarrollo.
+## 🎯 Objetivo
+
+Evaluar la funcionalidad del **proceso y gestión de compra de un producto**, verificando y validando que el producto satisfaga las necesidades del cliente y de los usuarios.
+
+También se busca reducir la probabilidad de aparición de defectos durante la etapa de desarrollo.
+
+---
 
 ## 📌 Alcance
 
-Se busca asegurar la calidad de un proyecto en desarrollo, enfocado en la implementación de funcionalidades específicas que necesitan ser validadas y verificadas para garantizar su correcto funcionamiento y cumplimiento de requisitos.
+Las pruebas estarán enfocadas en un proyecto en desarrollo y en la implementación de funcionalidades específicas que necesitan ser **validadas y verificadas**.
 
-Las pruebas estarán centradas en evaluar los aspectos:
+Se evaluarán principalmente:
 
-- Funcionales
-- De usabilidad
-- De rendimiento
+| Área | Objetivo |
+|---|---|
+| ⚙️ Funcionalidad | Verificar que las funcionalidades cumplan con los requisitos |
+| 👤 Usabilidad | Evaluar la facilidad de uso y experiencia del usuario |
+| ⚡ Rendimiento | Evaluar el comportamiento del sistema bajo determinadas condiciones |
+
+---
 
 ## 👥 Equipo
 
-El equipo de prueba estará compuesto por un **Tester Junior**, prestando servicio desde Argentina y de forma remota.
+**Tester Junior**
 
-## 🔎 Estrategia
+🌎 Argentina  
+💻 Modalidad remota
 
-El encargado de hacer las pruebas de testing realizará pruebas **funcionales y no funcionales de forma manual**.
+---
 
-Dentro de las pruebas no funcionales se ejecutarán pruebas de:
+## 🔎 Estrategia de pruebas
 
-- Rendimiento
-- Usabilidad
-- Performance
+Se realizarán pruebas **manuales funcionales y no funcionales**.
 
-También se realizarán **pruebas exploratorias en el Sign-Up**.
+### Pruebas funcionales
+- Verificación de las funcionalidades.
+- Validación del cumplimiento de requisitos.
 
-## ✅ Criterios
+### Pruebas no funcionales
+- ⚡ Rendimiento
+- 👤 Usabilidad
+- 🚀 Performance
 
-El criterio de funcionalidad es fundamental para garantizar que el sistema cumpla con los requisitos y funcione como se espera.
+### 🔍 Pruebas exploratorias
 
-Los criterios no funcionales son esenciales para evaluar aspectos como:
+Se realizarán pruebas exploratorias sobre la sección **Sign-Up**, buscando identificar comportamientos inesperados y posibles oportunidades de mejora.
+
+---
+
+## ✅ Criterios de prueba
+
+### ⚙️ Criterios funcionales
+
+Verificar que el sistema cumpla con los requisitos definidos y funcione de acuerdo con el comportamiento esperado.
+
+### 📊 Criterios no funcionales
+
+Evaluar aspectos relacionados con:
 
 - Usabilidad
 - Rendimiento
 - Seguridad
+- Accesibilidad
 - Experiencia del usuario
 - Eficiencia del sistema
+- Estabilidad
+- Recuperación ante fallos
 
-Estas pruebas se enfocan en verificar la capacidad del sistema para manejar cargas específicas sin degradación significativa del rendimiento, asegurando su accesibilidad para usuarios con diversas capacidades y evaluando la seguridad para proteger la integridad de los datos y la privacidad de los usuarios.
+Las pruebas buscarán verificar que el sistema pueda manejar cargas específicas sin una degradación significativa del rendimiento y que mantenga una experiencia segura y eficiente para los usuarios.
 
-Además, se considera la estabilidad del sistema bajo condiciones extremas y su habilidad para recuperarse rápidamente de fallos, asegurando una experiencia de usuario segura y eficiente.
+---
 
-## 💻 Ambiente
+## 💻 Ambiente de pruebas
 
-- **Equipo:** Notebook HP
-- **Sistema operativo:** Windows 10
-- **Navegador:** Google Chrome
+| Elemento | Configuración |
+|---|---|
+| 💻 Equipo | Notebook HP |
+| 🪟 Sistema operativo | Windows 10 |
+| 🌐 Navegador | Google Chrome |
+
+---
 
 ## 📦 Entregables
 
-- Plan de prueba
-- Informe del estado
-- Reporte de defectos
-- Reporte de mejoras
+- 📄 Plan de pruebas
+- 📊 Informe del estado
+- 🐞 Reporte de defectos
+- 💡 Reporte de mejoras
+
+---
 
 ## 🐞 Gestión de incidentes
 
-Durante la ejecución de las pruebas, cualquier desviación del comportamiento esperado del sistema se considera un **incidente**.
+Durante la ejecución de las pruebas, cualquier desviación del comportamiento esperado será considerada un **incidente**.
 
-Cada incidente identificado se documentará. Esta documentación incluirá:
+Cada incidente será documentado incluyendo:
 
-- Descripción clara del problema
+- Descripción del problema
 - Pasos para reproducirlo
-- Entorno de prueba en el que ocurrió
-- Severidad del incidente
-- Evidencia relevante, como capturas de pantalla o logs del sistema
+- Entorno donde ocurrió
+- Severidad
+- Evidencias relevantes
+- Capturas de pantalla o logs
 
-La prioridad se determinará en función de la severidad y el impacto del incidente en el sistema, considerando factores como la criticidad de la funcionalidad afectada.
+La **prioridad** será determinada considerando la severidad, el impacto y la criticidad de la funcionalidad afectada.
 
-## ⚠️ Riesgos
+---
+
+## ⚠️ Gestión de riesgos
 
 | Riesgo | Probabilidad | Impacto | Mitigación | Contingencia |
 |---|---|---|---|---|
-| Falta de tiempo para cumplir con las pruebas | Media | Alto | Priorizar los casos de prueba basados en riesgos y la criticidad de las funcionalidades. | Horas extras |
-| Impacto en la Moral del Equipo | Baja | Medio | Fomentar un ambiente de apoyo y colaboración. | Celebrar pequeños logros y ofrecer apoyo continuo. |
+| Falta de tiempo para cumplir con las pruebas | 🟡 Media | 🔴 Alto | Priorizar casos según riesgo y criticidad | Horas extras |
+| Impacto en la moral del equipo | 🟢 Baja | 🟡 Medio | Fomentar apoyo y colaboración | Celebrar pequeños logros y ofrecer apoyo continuo |
+
+---
 
 ## 📋 Tareas
 
-- [ ] Armado de casos de prueba
-- [ ] Ejecución de pruebas funcionales
-- [ ] Ejecución de pruebas no funcionales
-- [ ] Reporte de defectos
-- [ ] Armado de reporte de mejoras
+- [ ] 📝 Armado de casos de prueba
+- [ ] ⚙️ Ejecución de pruebas funcionales
+- [ ] 📊 Ejecución de pruebas no funcionales
+- [ ] 🐞 Reporte de defectos
+- [ ] 💡 Armado de reporte de mejoras
+
+---
+
+### 🧪 Estado del proyecto
+
+**En desarrollo** 🚧
+
+Este proyecto forma parte de mi portfolio de **QA Manual** y documenta la planificación, ejecución y seguimiento de actividades de testing.
