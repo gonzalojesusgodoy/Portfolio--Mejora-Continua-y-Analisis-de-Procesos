@@ -44,3 +44,20 @@ Para mejorar el rendimiento, sería recomendable optimizar las imágenes y scrip
 
 - **First Contentful Paint (FCP):** 1.8 segundos. Aceptable, pero podría ser más rápido.
 - **Time to First Byte (TTFB):** 1.4 segundos. El tiempo de respuesta del servidor es un poco alto.
+
+  ### Evidencias
+
+  **Computadora de escritorio (PC)**
+  
+<img width="1366" height="768" alt="unnamed (3)" src="https://github.com/user-attachments/assets/8ccf6818-2fdf-47fc-ab52-d55791056903" />
+
+<img width="1366" height="768" alt="unnamed (1)" src="https://github.com/user-attachments/assets/e04c23de-7465-4ad9-a950-934ad56cdf05" />
+
+<img width="1366" height="768" alt="unnamed (2)" src="https://github.com/user-attachments/assets/50cc5455-fa20-4cc4-9bea-319b82482508" />
+
+**Dispositivo Móvil**
+<img width="984" height="452" alt="unnamed (5)" src="https://github.com/user-attachments/assets/a8ea58ce-06df-4f51-9199-5a5c23773f4b" />
+
+<img width="960" height="521" alt="unnamed (6)" src="https://github.com/user-attachments/assets/5c7013dd-f918-4473-91e3-5027708249cb" />
+
+<img width="956" height="538" alt="unnamed (7)" src="https://github.com/user-attachments/assets/72241042-9571-4a78-bd47-f8d2f1d56571" />
