@@ -13,7 +13,4 @@ Durante la **validación del código** de la **página web**, se llevó a cabo u
 3. **Error** (Error): Representa problemas críticos que afectan el funcionamiento correcto del código. Estos errores deben ser atendidos de inmediato, ya que pueden causar fallos en la página, como enlaces rotos, visualización incorrecta o funcionalidades que no operan como se espera.
 
 
-### Conclusión
-En la **prueba de enlaces**, se detectaron **dos enlaces** que no están funcionando correctamente. Como tester manual, y dado que aún no he profundizado en el ámbito del código, la manera más eficiente de reportar este tipo de incidencias es proporcionando una **captura de pantalla** del error. Si es posible obtener detalles adicionales como el código o la respuesta del enlace, esa información también debe ser enviada al desarrollador para su corrección, asegurando así que el sistema esté **óptimo** para su uso.
 
-Aparte de ello, los demás enlaces se encuentran funcionando de manera **óptima** y redirigen correctamente a los destinos previstos.
