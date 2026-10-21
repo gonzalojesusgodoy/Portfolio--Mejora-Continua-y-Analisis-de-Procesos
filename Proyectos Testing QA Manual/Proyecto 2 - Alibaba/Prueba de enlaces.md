@@ -23,3 +23,8 @@ Por otro lado, los demás enlaces se encuentran funcionando de manera **óptima*
 <img width="1278" height="601" alt="unnamed (11)" src="https://github.com/user-attachments/assets/b115da6d-2496-41ed-88dc-bb33e56b2b67" />
 
 <img width="1366" height="593" alt="unnamed (12)" src="https://github.com/user-attachments/assets/95ccfe78-1388-46e2-93c4-1e9525746a33" />
+
+### Conclusión
+En la **prueba de enlaces**, se detectaron **dos enlaces** que no están funcionando correctamente. Como tester manual, y dado que aún no he profundizado en el ámbito del código, la manera más eficiente de reportar este tipo de incidencias es proporcionando una **captura de pantalla** del error. Si es posible obtener detalles adicionales como el código o la respuesta del enlace, esa información también debe ser enviada al desarrollador para su corrección, asegurando así que el sistema esté **óptimo** para su uso.
+
+Aparte de ello, los demás enlaces se encuentran funcionando de manera **óptima** y redirigen correctamente a los destinos previstos.
