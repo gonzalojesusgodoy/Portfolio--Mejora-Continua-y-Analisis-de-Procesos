@@ -4,7 +4,7 @@ Me enfoqué en verificar que los **enlaces** funcionen correctamente, asegurando
 
 Para realizar esta prueba utilicé la herramienta **CheckLink**. 
 
-## 📋 Resultados — Prueba de enlaces
+### 📋 Resultados — Prueba de enlaces
 
 En la **prueba de enlaces**, se detectaron **dos enlaces** que no funcionan correctamente.
 
