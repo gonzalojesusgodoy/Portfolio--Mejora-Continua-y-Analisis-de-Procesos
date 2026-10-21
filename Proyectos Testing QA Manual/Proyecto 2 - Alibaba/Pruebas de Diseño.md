@@ -8,6 +8,9 @@ Para ello, utilicé las siguientes herramientas:
 - **WhatFont:** para identificar y validar las tipografías utilizadas.
 
 Estas herramientas permiten asegurar que los elementos visuales de la página cumplan con los estándares establecidos.
+<img width="1366" height="603" alt="image" src="https://github.com/user-attachments/assets/18901d5b-b812-4868-b3d5-90e84e518c42" />
+
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/573da071-ddea-4579-a155-e3805d11bd75" />
 
 ### 📋 Conclusión — Pruebas visuales
 
