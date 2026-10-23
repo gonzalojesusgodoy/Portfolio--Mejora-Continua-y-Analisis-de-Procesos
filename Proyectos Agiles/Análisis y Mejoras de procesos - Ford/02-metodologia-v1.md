@@ -1,14 +1,14 @@
-# ⚙️ Metodología de Mejora de Procesos — Versión 1.0
+#  Metodología de Mejora de Procesos — Versión 1.0
 
-> 🔎 Un enfoque estructurado para observar, analizar y mejorar procesos de manera continua.
+>  Un enfoque estructurado para observar, analizar y mejorar procesos de manera continua.
 
-## 🎯 1. Propósito
+##  1. Propósito
 
 Establecer un procedimiento ordenado para comprender cómo funciona un proceso, identificar problemas, analizar sus posibles causas y evaluar oportunidades de mejora.
 
 La metodología busca fundamentar las decisiones, evitar conclusiones apresuradas y promover el aprendizaje a partir de los resultados obtenidos.
 
-## 🔄 2. Etapas de la metodología
+##  2. Etapas de la metodología
 
 ### 👀 Etapa 1 — Observación
 
@@ -42,7 +42,7 @@ Analizar los resultados para determinar si la propuesta funcionó, si necesita m
 
 Registrar los aprendizajes obtenidos y utilizar la experiencia para perfeccionar tanto el proceso analizado como la propia metodología.
 
-## 🧭 3. Principios de trabajo
+##  3. Principios de trabajo
 
 - 🔎 **Comprender antes de actuar:** analizar la situación antes de intervenir.
 - 🧠 **Diferenciar hechos e hipótesis:** no presentar posibles causas como conclusiones confirmadas.
@@ -52,7 +52,7 @@ Registrar los aprendizajes obtenidos y utilizar la experiencia para perfeccionar
 - 📝 **Documentar los cambios:** registrar las modificaciones y aprendizajes de cada nueva versión.
 - 🦺 **Priorizar la seguridad y la calidad:** ninguna mejora debe comprometer las condiciones de trabajo ni los requisitos del proceso.
 
-## 📊 4. Estado de validación
+##  4. Estado de validación
 
 **Estado actual:** propuesta inicial en desarrollo.
 
@@ -60,7 +60,7 @@ Esta versión establece una estructura de trabajo que se revisará a medida que 
 
 Las etapas y los criterios podrán ajustarse según las características de cada proceso. Las propuestas no se considerarán mejoras comprobadas hasta que sus resultados hayan sido evaluados.
 
-## 🚀 5. Próximo paso
+##  5. Próximo paso
 
 Aplicar la metodología a un caso concreto y documentar:
 
@@ -75,4 +75,4 @@ El objetivo será comprobar si la metodología permite analizar los problemas de
 
 ---
 
-**🌱 Principio fundamental:** observar, comprender, analizar, probar y aprender para mejorar continuamente.
+** Principio fundamental:** observar, comprender, analizar, probar y aprender para mejorar continuamente.
