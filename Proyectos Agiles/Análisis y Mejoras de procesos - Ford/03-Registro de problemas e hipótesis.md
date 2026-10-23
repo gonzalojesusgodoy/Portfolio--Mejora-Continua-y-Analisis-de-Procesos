@@ -1,14 +1,14 @@
-# 📋 Registro de Problemas e Hipótesis
+#  Registro de Problemas e Hipótesis
 
 > 🔎 Documento de seguimiento para identificar problemas, analizar posibles causas y registrar oportunidades de mejora.
 
-## 🎯 1. Propósito
+##  1. Propósito
 
 Registrar los problemas detectados durante el análisis de procesos, sus posibles causas, las hipótesis de mejora y los resultados de las pruebas realizadas.
 
 El objetivo es mantener un seguimiento ordenado de cada oportunidad de mejora y evitar que las propuestas se consideren soluciones comprobadas antes de ser evaluadas.
 
-## 🧩 2. Registro de problemas
+##  2. Registro de problemas
 
 ### 🔴 Problema 001 — Esperas entre etapas
 
@@ -75,7 +75,7 @@ Comparar el proceso actual con una alternativa de preparación previa, mediante 
 
 ---
 
-## 📈 3. Criterios de evaluación
+##  3. Criterios de evaluación
 
 Cada propuesta deberá evaluarse considerando los siguientes aspectos:
 
@@ -89,7 +89,7 @@ Cada propuesta deberá evaluarse considerando los siguientes aspectos:
 
 Cuando no existan mediciones, el análisis deberá indicar expresamente esa limitación. No se deberán inventar resultados ni considerar una hipótesis como confirmada sin evidencia suficiente.
 
-## 🔄 4. Historial de aprendizajes
+##  4. Historial de aprendizajes
 
 Este apartado se actualizará a medida que se desarrollen nuevos análisis y pruebas.
 
@@ -105,4 +105,4 @@ El objetivo es construir un registro que permita comprender cómo evoluciona cad
 
 ---
 
-**🌱 Principio de trabajo:** identificar el problema, analizar sus posibles causas y evaluar las propuestas antes de considerarlas soluciones efectivas.
+** Principio de trabajo:** identificar el problema, analizar sus posibles causas y evaluar las propuestas antes de considerarlas soluciones efectivas.
