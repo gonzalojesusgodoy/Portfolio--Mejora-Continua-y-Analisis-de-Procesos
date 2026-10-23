@@ -1,6 +1,6 @@
-# 🧭 01 — Fundamentos de Mejora Continua
+#  01 — Fundamentos de Mejora Continua
 
-## 🎯 Propósito
+##  Propósito
 
 Este documento establece los principios que orientan mi enfoque de análisis y mejora de procesos.
 
@@ -10,7 +10,7 @@ La intención no es modificar un proceso sin analizarlo previamente, sino compre
 
 ---
 
-## 🧠 1. Enfoque de trabajo
+##  1. Enfoque de trabajo
 
 La mejora continua consiste en buscar oportunidades para optimizar procesos de manera progresiva, a partir de la observación, el análisis y la evaluación de los resultados.
 
@@ -23,7 +23,7 @@ Mi enfoque se basa en cuatro principios:
 
 Estos principios permiten evitar conclusiones apresuradas y mantener un razonamiento ordenado.
 
-## ⚙️ 2. Visión del proceso
+##  2. Visión del proceso
 
 Un proceso está formado por actividades relacionadas que transforman entradas en resultados.
 
@@ -39,7 +39,7 @@ Algunos aspectos importantes son:
 
 Una dificultad en una etapa puede afectar a otras partes del proceso. Por eso, una propuesta de mejora debe considerar sus posibles consecuencias sobre el conjunto y no únicamente sobre una tarea aislada.
 
-## 🔎 3. Identificación y análisis de problemas
+##  3. Identificación y análisis de problemas
 
 El análisis comienza con la identificación de una situación que podría mejorarse.
 
@@ -53,7 +53,7 @@ Para mantener la claridad, se distinguen tres elementos:
 
 Esta separación es fundamental para no confundir una interpretación inicial con una causa confirmada o una solución validada.
 
-## 💡 4. Criterios para proponer mejoras
+##  4. Criterios para proponer mejoras
 
 Una alternativa de mejora debe evaluarse desde diferentes perspectivas.
 
@@ -68,7 +68,7 @@ Una mejora local no siempre representa una mejora para todo el sistema. Por ejem
 
 Por este motivo, las alternativas deben analizarse de forma integral.
 
-## 📊 5. Evidencia y validación
+##  5. Evidencia y validación
 
 Las decisiones deben apoyarse en la información disponible y en el nivel de evidencia alcanzado.
 
@@ -82,7 +82,7 @@ Cuando no se dispone de mediciones, los análisis pueden desarrollarse de manera
 
 No se deben inventar datos ni presentar beneficios esperados como resultados comprobados.
 
-## 🔄 6. Aprendizaje y mejora progresiva
+##  6. Aprendizaje y mejora progresiva
 
 La mejora continua requiere revisar las propuestas a partir de la información que se obtiene.
 
@@ -92,7 +92,7 @@ El objetivo es desarrollar progresivamente una forma de trabajo más rigurosa, d
 
 ---
 
-## 📌 Aplicación en el portfolio
+##  Aplicación en el portfolio
 
 Estos fundamentos sirven como referencia para los casos de estudio y los registros del repositorio.
 
