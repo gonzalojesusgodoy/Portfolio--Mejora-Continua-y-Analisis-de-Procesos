@@ -1,8 +1,8 @@
-# 🧪 Registro de Experimentos y Validación
+#  Registro de Experimentos y Validación
 
-> 🎯 Objetivo: establecer cómo comprobar las hipótesis de mejora, bajo qué condiciones realizar las pruebas y qué evidencia se necesita para tomar una decisión.
+>  Objetivo: establecer cómo comprobar las hipótesis de mejora, bajo qué condiciones realizar las pruebas y qué evidencia se necesita para tomar una decisión.
 
-## 🎯 1. Propósito
+##  1. Propósito
 
 Este documento define el procedimiento para diseñar, ejecutar y evaluar pruebas destinadas a comprobar hipótesis de mejora.
 
@@ -10,7 +10,7 @@ A diferencia del registro de problemas, que identifica oportunidades, este docum
 
 Cada experimento deberá tener un objetivo definido, condiciones de prueba claras, indicadores relevantes y criterios de evaluación establecidos antes de analizar los resultados.
 
-## 🔬 2. Diseño del experimento
+##  2. Diseño del experimento
 
 Antes de realizar una prueba, se deberán definir los siguientes elementos:
 
@@ -25,7 +25,7 @@ Antes de realizar una prueba, se deberán definir los siguientes elementos:
 
 Siempre que sea posible, se modificará un factor principal por prueba para facilitar la interpretación de los resultados.
 
-## 🧪 3. Protocolo de prueba
+##  3. Protocolo de prueba
 
 Cada experimento deberá seguir una secuencia ordenada:
 
@@ -40,7 +40,7 @@ Cada experimento deberá seguir una secuencia ordenada:
 
 Si no se puede realizar una prueba, se documentará como propuesta pendiente, sin presentar resultados hipotéticos como si fueran reales.
 
-## 📋 4. Ficha de experimento
+##  4. Ficha de experimento
 
 Cada prueba se documentará mediante la siguiente ficha:
 
@@ -59,7 +59,7 @@ Cada prueba se documentará mediante la siguiente ficha:
 | Decisión | Mantener, modificar, descartar o repetir |
 | Estado | Propuesto, autorizado, ejecutado o evaluado |
 
-## 🏭 5. Experimento 001 — Preparación previa de piezas
+##  5. Experimento 001 — Preparación previa de piezas
 
 **🔗 Problema relacionado:** Preparación de piezas durante el montaje de módulos.
 
@@ -73,7 +73,7 @@ Cada prueba se documentará mediante la siguiente ficha:
 
 **🧪 Prueba propuesta:** Comparar el proceso actual con una preparación previa controlada, únicamente si la prueba está autorizada y cumple las condiciones de seguridad y calidad.
 
-### 📊 Indicadores
+###  Indicadores
 
 - Tiempo dedicado a preparar las piezas.
 - Tiempo de montaje.
@@ -105,13 +105,13 @@ Una vez ejecutado el experimento, los resultados deberán interpretarse de acuer
 
 Si la prueba no permite llegar a una conclusión clara, se deberá registrar esa limitación y evitar afirmar que la hipótesis está confirmada.
 
-## 🛡️ 7. Seguridad, calidad y autorización
+##  7. Seguridad, calidad y autorización
 
 Ningún experimento deberá realizarse sin las autorizaciones correspondientes ni comprometer la seguridad de las personas, la calidad del producto o el funcionamiento de la línea.
 
 Cuando una prueba no pueda ejecutarse, el diseño experimental podrá documentarse como una propuesta para una futura evaluación.
 
-## 🗂️ 8. Historial de experimentos
+##  8. Historial de experimentos
 
 Este registro se actualizará con cada prueba realizada e incluirá:
 
@@ -126,4 +126,4 @@ El historial permitirá mantener la trazabilidad de las pruebas y evitar que una
 
 ---
 
-**🔑 Principio fundamental:** una propuesta no se considera validada por parecer razonable; debe evaluarse mediante criterios definidos y evidencia suficiente.
+** Principio fundamental:** una propuesta no se considera validada por parecer razonable; debe evaluarse mediante criterios definidos y evidencia suficiente.
